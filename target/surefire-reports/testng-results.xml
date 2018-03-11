@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="59" started-at="2018-02-13T01:19:28Z" finished-at="2018-02-13T01:19:28Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="59" started-at="2018-02-13T01:19:28Z" finished-at="2018-02-13T01:19:28Z">
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="ApiValidation()[pri:0, instance:qaclickacademy.RestAPITest@edf4efb]" name="ApiValidation" duration-ms="15" started-at="2018-02-13T01:19:28Z" finished-at="2018-02-13T01:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiValidation -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
